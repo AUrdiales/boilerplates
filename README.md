@@ -1,9 +1,9 @@
-# boilerplates
+# ReactJS
 
-A list of boilerplates for my personal projects
+This boilerplate contains all that is needed for a react project with Javascript.
 
-You can find every boilerplate in a branch called `feature/${boilerplate}`
-
-At the moment I have these boilerplates:
-
-nodejs
+Contains:
+React
+Redux
+React Router
+SASS
