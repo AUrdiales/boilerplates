@@ -1,11 +1,8 @@
-# boilerplates
+# VueJS
 
-A list of boilerplates for my personal projects
+This boilerplate contains all that is needed for a vue project with Javascript.
 
-You can find every boilerplate in a branch called `feature/${boilerplate}`
-
-At the moment I have these boilerplates:
-
-nodejs
-
-reactjs
+Contains:
+Vue
+Vue Router
+SASS
