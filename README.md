@@ -6,6 +6,8 @@ You can find every boilerplate in a branch called `feature/${boilerplate}`
 
 At the moment I have these boilerplates:
 
-nodejs
+* nodejs
 
-reactjs
+* reactjs
+
+* vuejs
